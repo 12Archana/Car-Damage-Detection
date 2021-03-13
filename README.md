@@ -59,6 +59,16 @@ pip install detectron2==0.2 -f https://dl.fbaipublicfiles.com/detectron2/wheels/
 ```
 * Pycocotools to Visualize Coco Dataset can be installed using this instructions provided [here.](https://github.com/cocodataset/cocoapi)
 
+## Schema Details
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+## Instructions to run
+
+
 ## Link to datasets and Models
 * [COCO_dataset](https://drive.google.com/drive/folders/1mxdGl5Ah8NTJQIAAcWsDarJxmZFS0B84?usp=sharing)
 * [dataset (Original VGG dataset)](https://drive.google.com/drive/folders/1lvapqYrXS7oCt5Mzp5UO4ZVBqZyvrjz8?usp=sharing)
